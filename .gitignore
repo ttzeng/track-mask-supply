@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# The client ID and secret for accessing Google APIs
+credentials.json
+
+# The user's access and refresh tokens generated after the authorization
+token.pickle
+
+# Private modules
+secrets.py
