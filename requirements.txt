@@ -1,0 +1,6 @@
+# Data analysis library
+pandas
+
+# Google API client libraries
+google-auth-oauthlib
+google-api-python-client
